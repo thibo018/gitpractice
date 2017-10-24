@@ -1,0 +1,11 @@
+Steps to adding repository and committing:
+
+1. cd into directory of interest
+2. git add SUBDIRECTORY NAME
+3. cd into subdirectory 
+4. git add FILENAME
+5. work in FILENAME
+6. git commit -m "comment"
+7. go back to working in FILENAME
+8. git add FILENAME
+9. git commit -m "comment 2"
