@@ -9,3 +9,10 @@ Steps to adding repository and committing:
 7. go back to working in FILENAME
 8. git add FILENAME
 9. git commit -m "comment 2"
+
+helpful commands:
+
+1. git status
+2. vim (open file) 
+3. git add SUBDIRECTORY/* adds all files within subdirector
+4. esc :wq enter gets out of vimy
